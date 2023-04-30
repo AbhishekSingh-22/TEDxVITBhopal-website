@@ -1,4 +1,4 @@
-# Amitesh_Mishra_22BAI10038_TEDx_chapter_Web_and_App_Team
+#TEDxVITBhopal website
 i am uploading CSS and Html with a video explaination of TedX website made by me
 to acces the files open the tedx website file.
 all the files are in their respective folders.i have made html folder which contains the html of the index page and i have also made about page the html of the about page is also in the about.html file.
