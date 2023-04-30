@@ -80,7 +80,7 @@ nav {
 
 /* _____________________________________________________section 1 css starts here _________________________________________ */
 #BecomeSpeaker {
-    background-image: url("/Amitesh_Mishra_22BAI10038_TEDx_chapter_Web_and_App_Team/TedX website/TED/Images/index\ page\ img/speaker.jpg");
+    background-image: url("../Images/index_page_img/speaker.jpg");
     /* background-image: url("/TED/speaker.jpg"); */
     height: 596px;
     background-position: center;
